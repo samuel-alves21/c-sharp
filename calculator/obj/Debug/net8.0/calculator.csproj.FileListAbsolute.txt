@@ -1,0 +1,15 @@
+D:\GitProjects\c#\calculator\obj\Debug\net8.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProjects\c#\calculator\obj\Debug\net8.0\calculator.AssemblyInfoInputs.cache
+D:\GitProjects\c#\calculator\obj\Debug\net8.0\calculator.AssemblyInfo.cs
+D:\GitProjects\c#\calculator\obj\Debug\net8.0\calculator.csproj.CoreCompileInputs.cache
+D:\GitProjects\c#\calculator\obj\Debug\net8.0\calculator.sourcelink.json
+D:\GitProjects\c#\calculator\bin\Debug\net8.0\calculator.exe
+D:\GitProjects\c#\calculator\bin\Debug\net8.0\calculator.deps.json
+D:\GitProjects\c#\calculator\bin\Debug\net8.0\calculator.runtimeconfig.json
+D:\GitProjects\c#\calculator\bin\Debug\net8.0\calculator.dll
+D:\GitProjects\c#\calculator\bin\Debug\net8.0\calculator.pdb
+D:\GitProjects\c#\calculator\obj\Debug\net8.0\calculator.dll
+D:\GitProjects\c#\calculator\obj\Debug\net8.0\refint\calculator.dll
+D:\GitProjects\c#\calculator\obj\Debug\net8.0\calculator.pdb
+D:\GitProjects\c#\calculator\obj\Debug\net8.0\calculator.genruntimeconfig.cache
+D:\GitProjects\c#\calculator\obj\Debug\net8.0\ref\calculator.dll
