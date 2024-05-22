@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitProjects\\c#\\c#.csproj",
-      "projectName": "c#",
-      "projectPath": "D:\\GitProjects\\c#\\c#.csproj",
+      "projectUniqueName": "D:\\GitProjects\\c#\\stopwatch\\stopwatch.csproj",
+      "projectName": "stopwatch",
+      "projectPath": "D:\\GitProjects\\c#\\stopwatch\\stopwatch.csproj",
       "packagesPath": "C:\\Users\\samuel\\.nuget\\packages\\",
-      "outputPath": "D:\\GitProjects\\c#\\obj\\",
+      "outputPath": "D:\\GitProjects\\c#\\stopwatch\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\samuel\\AppData\\Roaming\\NuGet\\NuGet.Config"
