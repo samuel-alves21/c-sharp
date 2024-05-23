@@ -1,0 +1,15 @@
+D:\GitProjects\c#\textEditor\bin\Debug\net8.0\textEditor.exe
+D:\GitProjects\c#\textEditor\bin\Debug\net8.0\textEditor.deps.json
+D:\GitProjects\c#\textEditor\bin\Debug\net8.0\textEditor.runtimeconfig.json
+D:\GitProjects\c#\textEditor\bin\Debug\net8.0\textEditor.dll
+D:\GitProjects\c#\textEditor\bin\Debug\net8.0\textEditor.pdb
+D:\GitProjects\c#\textEditor\obj\Debug\net8.0\textEditor.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProjects\c#\textEditor\obj\Debug\net8.0\textEditor.AssemblyInfoInputs.cache
+D:\GitProjects\c#\textEditor\obj\Debug\net8.0\textEditor.AssemblyInfo.cs
+D:\GitProjects\c#\textEditor\obj\Debug\net8.0\textEditor.csproj.CoreCompileInputs.cache
+D:\GitProjects\c#\textEditor\obj\Debug\net8.0\textEditor.sourcelink.json
+D:\GitProjects\c#\textEditor\obj\Debug\net8.0\textEditor.dll
+D:\GitProjects\c#\textEditor\obj\Debug\net8.0\refint\textEditor.dll
+D:\GitProjects\c#\textEditor\obj\Debug\net8.0\textEditor.pdb
+D:\GitProjects\c#\textEditor\obj\Debug\net8.0\textEditor.genruntimeconfig.cache
+D:\GitProjects\c#\textEditor\obj\Debug\net8.0\ref\textEditor.dll
