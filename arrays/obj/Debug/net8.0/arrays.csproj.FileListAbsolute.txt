@@ -1,0 +1,15 @@
+D:\GitProjects\c#\arrays\bin\Debug\net8.0\arrays.exe
+D:\GitProjects\c#\arrays\bin\Debug\net8.0\arrays.deps.json
+D:\GitProjects\c#\arrays\bin\Debug\net8.0\arrays.runtimeconfig.json
+D:\GitProjects\c#\arrays\bin\Debug\net8.0\arrays.dll
+D:\GitProjects\c#\arrays\bin\Debug\net8.0\arrays.pdb
+D:\GitProjects\c#\arrays\obj\Debug\net8.0\arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProjects\c#\arrays\obj\Debug\net8.0\arrays.AssemblyInfoInputs.cache
+D:\GitProjects\c#\arrays\obj\Debug\net8.0\arrays.AssemblyInfo.cs
+D:\GitProjects\c#\arrays\obj\Debug\net8.0\arrays.csproj.CoreCompileInputs.cache
+D:\GitProjects\c#\arrays\obj\Debug\net8.0\arrays.sourcelink.json
+D:\GitProjects\c#\arrays\obj\Debug\net8.0\arrays.dll
+D:\GitProjects\c#\arrays\obj\Debug\net8.0\refint\arrays.dll
+D:\GitProjects\c#\arrays\obj\Debug\net8.0\arrays.pdb
+D:\GitProjects\c#\arrays\obj\Debug\net8.0\arrays.genruntimeconfig.cache
+D:\GitProjects\c#\arrays\obj\Debug\net8.0\ref\arrays.dll

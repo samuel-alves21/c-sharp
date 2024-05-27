@@ -1,0 +1,15 @@
+D:\GitProjects\c#\oop\obj\Debug\net8.0\oop.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProjects\c#\oop\obj\Debug\net8.0\oop.AssemblyInfoInputs.cache
+D:\GitProjects\c#\oop\obj\Debug\net8.0\oop.AssemblyInfo.cs
+D:\GitProjects\c#\oop\obj\Debug\net8.0\oop.csproj.CoreCompileInputs.cache
+D:\GitProjects\c#\oop\obj\Debug\net8.0\oop.sourcelink.json
+D:\GitProjects\c#\oop\bin\Debug\net8.0\oop.exe
+D:\GitProjects\c#\oop\bin\Debug\net8.0\oop.deps.json
+D:\GitProjects\c#\oop\bin\Debug\net8.0\oop.runtimeconfig.json
+D:\GitProjects\c#\oop\bin\Debug\net8.0\oop.dll
+D:\GitProjects\c#\oop\bin\Debug\net8.0\oop.pdb
+D:\GitProjects\c#\oop\obj\Debug\net8.0\oop.dll
+D:\GitProjects\c#\oop\obj\Debug\net8.0\refint\oop.dll
+D:\GitProjects\c#\oop\obj\Debug\net8.0\oop.pdb
+D:\GitProjects\c#\oop\obj\Debug\net8.0\oop.genruntimeconfig.cache
+D:\GitProjects\c#\oop\obj\Debug\net8.0\ref\oop.dll

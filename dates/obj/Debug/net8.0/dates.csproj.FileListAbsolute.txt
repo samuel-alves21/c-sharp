@@ -1,0 +1,15 @@
+D:\GitProjects\c#\dates\bin\Debug\net8.0\dates.exe
+D:\GitProjects\c#\dates\bin\Debug\net8.0\dates.deps.json
+D:\GitProjects\c#\dates\bin\Debug\net8.0\dates.runtimeconfig.json
+D:\GitProjects\c#\dates\bin\Debug\net8.0\dates.dll
+D:\GitProjects\c#\dates\bin\Debug\net8.0\dates.pdb
+D:\GitProjects\c#\dates\obj\Debug\net8.0\dates.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProjects\c#\dates\obj\Debug\net8.0\dates.AssemblyInfoInputs.cache
+D:\GitProjects\c#\dates\obj\Debug\net8.0\dates.AssemblyInfo.cs
+D:\GitProjects\c#\dates\obj\Debug\net8.0\dates.csproj.CoreCompileInputs.cache
+D:\GitProjects\c#\dates\obj\Debug\net8.0\dates.sourcelink.json
+D:\GitProjects\c#\dates\obj\Debug\net8.0\dates.dll
+D:\GitProjects\c#\dates\obj\Debug\net8.0\refint\dates.dll
+D:\GitProjects\c#\dates\obj\Debug\net8.0\dates.pdb
+D:\GitProjects\c#\dates\obj\Debug\net8.0\dates.genruntimeconfig.cache
+D:\GitProjects\c#\dates\obj\Debug\net8.0\ref\dates.dll

@@ -1,0 +1,15 @@
+D:\GitProjects\c#\currency\bin\Debug\net8.0\currency.exe
+D:\GitProjects\c#\currency\bin\Debug\net8.0\currency.deps.json
+D:\GitProjects\c#\currency\bin\Debug\net8.0\currency.runtimeconfig.json
+D:\GitProjects\c#\currency\bin\Debug\net8.0\currency.dll
+D:\GitProjects\c#\currency\bin\Debug\net8.0\currency.pdb
+D:\GitProjects\c#\currency\obj\Debug\net8.0\currency.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProjects\c#\currency\obj\Debug\net8.0\currency.AssemblyInfoInputs.cache
+D:\GitProjects\c#\currency\obj\Debug\net8.0\currency.AssemblyInfo.cs
+D:\GitProjects\c#\currency\obj\Debug\net8.0\currency.csproj.CoreCompileInputs.cache
+D:\GitProjects\c#\currency\obj\Debug\net8.0\currency.sourcelink.json
+D:\GitProjects\c#\currency\obj\Debug\net8.0\currency.dll
+D:\GitProjects\c#\currency\obj\Debug\net8.0\refint\currency.dll
+D:\GitProjects\c#\currency\obj\Debug\net8.0\currency.pdb
+D:\GitProjects\c#\currency\obj\Debug\net8.0\currency.genruntimeconfig.cache
+D:\GitProjects\c#\currency\obj\Debug\net8.0\ref\currency.dll

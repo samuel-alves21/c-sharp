@@ -1,0 +1,15 @@
+D:\GitProjects\c#\strings\bin\Debug\net8.0\strings.exe
+D:\GitProjects\c#\strings\bin\Debug\net8.0\strings.deps.json
+D:\GitProjects\c#\strings\bin\Debug\net8.0\strings.runtimeconfig.json
+D:\GitProjects\c#\strings\bin\Debug\net8.0\strings.dll
+D:\GitProjects\c#\strings\bin\Debug\net8.0\strings.pdb
+D:\GitProjects\c#\strings\obj\Debug\net8.0\strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProjects\c#\strings\obj\Debug\net8.0\strings.AssemblyInfoInputs.cache
+D:\GitProjects\c#\strings\obj\Debug\net8.0\strings.AssemblyInfo.cs
+D:\GitProjects\c#\strings\obj\Debug\net8.0\strings.csproj.CoreCompileInputs.cache
+D:\GitProjects\c#\strings\obj\Debug\net8.0\strings.sourcelink.json
+D:\GitProjects\c#\strings\obj\Debug\net8.0\strings.dll
+D:\GitProjects\c#\strings\obj\Debug\net8.0\refint\strings.dll
+D:\GitProjects\c#\strings\obj\Debug\net8.0\strings.pdb
+D:\GitProjects\c#\strings\obj\Debug\net8.0\strings.genruntimeconfig.cache
+D:\GitProjects\c#\strings\obj\Debug\net8.0\ref\strings.dll

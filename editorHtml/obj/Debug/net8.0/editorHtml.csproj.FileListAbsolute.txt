@@ -1,0 +1,15 @@
+D:\GitProjects\c#\editorHtml\bin\Debug\net8.0\editorHtml.exe
+D:\GitProjects\c#\editorHtml\bin\Debug\net8.0\editorHtml.deps.json
+D:\GitProjects\c#\editorHtml\bin\Debug\net8.0\editorHtml.runtimeconfig.json
+D:\GitProjects\c#\editorHtml\bin\Debug\net8.0\editorHtml.dll
+D:\GitProjects\c#\editorHtml\bin\Debug\net8.0\editorHtml.pdb
+D:\GitProjects\c#\editorHtml\obj\Debug\net8.0\editorHtml.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProjects\c#\editorHtml\obj\Debug\net8.0\editorHtml.AssemblyInfoInputs.cache
+D:\GitProjects\c#\editorHtml\obj\Debug\net8.0\editorHtml.AssemblyInfo.cs
+D:\GitProjects\c#\editorHtml\obj\Debug\net8.0\editorHtml.csproj.CoreCompileInputs.cache
+D:\GitProjects\c#\editorHtml\obj\Debug\net8.0\editorHtml.sourcelink.json
+D:\GitProjects\c#\editorHtml\obj\Debug\net8.0\editorHtml.dll
+D:\GitProjects\c#\editorHtml\obj\Debug\net8.0\refint\editorHtml.dll
+D:\GitProjects\c#\editorHtml\obj\Debug\net8.0\editorHtml.pdb
+D:\GitProjects\c#\editorHtml\obj\Debug\net8.0\editorHtml.genruntimeconfig.cache
+D:\GitProjects\c#\editorHtml\obj\Debug\net8.0\ref\editorHtml.dll
