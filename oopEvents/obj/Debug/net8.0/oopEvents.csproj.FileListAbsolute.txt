@@ -1,0 +1,15 @@
+D:\GitProjects\c#\oopEvents\bin\Debug\net8.0\oopEvents.exe
+D:\GitProjects\c#\oopEvents\bin\Debug\net8.0\oopEvents.deps.json
+D:\GitProjects\c#\oopEvents\bin\Debug\net8.0\oopEvents.runtimeconfig.json
+D:\GitProjects\c#\oopEvents\bin\Debug\net8.0\oopEvents.dll
+D:\GitProjects\c#\oopEvents\bin\Debug\net8.0\oopEvents.pdb
+D:\GitProjects\c#\oopEvents\obj\Debug\net8.0\oopEvents.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProjects\c#\oopEvents\obj\Debug\net8.0\oopEvents.AssemblyInfoInputs.cache
+D:\GitProjects\c#\oopEvents\obj\Debug\net8.0\oopEvents.AssemblyInfo.cs
+D:\GitProjects\c#\oopEvents\obj\Debug\net8.0\oopEvents.csproj.CoreCompileInputs.cache
+D:\GitProjects\c#\oopEvents\obj\Debug\net8.0\oopEvents.sourcelink.json
+D:\GitProjects\c#\oopEvents\obj\Debug\net8.0\oopEvents.dll
+D:\GitProjects\c#\oopEvents\obj\Debug\net8.0\refint\oopEvents.dll
+D:\GitProjects\c#\oopEvents\obj\Debug\net8.0\oopEvents.pdb
+D:\GitProjects\c#\oopEvents\obj\Debug\net8.0\oopEvents.genruntimeconfig.cache
+D:\GitProjects\c#\oopEvents\obj\Debug\net8.0\ref\oopEvents.dll

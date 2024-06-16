@@ -1,0 +1,15 @@
+D:\GitProjects\c#\balta\bin\Debug\net8.0\balta.exe
+D:\GitProjects\c#\balta\bin\Debug\net8.0\balta.deps.json
+D:\GitProjects\c#\balta\bin\Debug\net8.0\balta.runtimeconfig.json
+D:\GitProjects\c#\balta\bin\Debug\net8.0\balta.dll
+D:\GitProjects\c#\balta\bin\Debug\net8.0\balta.pdb
+D:\GitProjects\c#\balta\obj\Debug\net8.0\balta.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProjects\c#\balta\obj\Debug\net8.0\balta.AssemblyInfoInputs.cache
+D:\GitProjects\c#\balta\obj\Debug\net8.0\balta.AssemblyInfo.cs
+D:\GitProjects\c#\balta\obj\Debug\net8.0\balta.csproj.CoreCompileInputs.cache
+D:\GitProjects\c#\balta\obj\Debug\net8.0\balta.sourcelink.json
+D:\GitProjects\c#\balta\obj\Debug\net8.0\balta.dll
+D:\GitProjects\c#\balta\obj\Debug\net8.0\refint\balta.dll
+D:\GitProjects\c#\balta\obj\Debug\net8.0\balta.pdb
+D:\GitProjects\c#\balta\obj\Debug\net8.0\balta.genruntimeconfig.cache
+D:\GitProjects\c#\balta\obj\Debug\net8.0\ref\balta.dll

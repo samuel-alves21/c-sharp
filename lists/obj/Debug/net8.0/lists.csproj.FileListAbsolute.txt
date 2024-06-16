@@ -1,0 +1,15 @@
+D:\GitProjects\c#\lists\bin\Debug\net8.0\lists.exe
+D:\GitProjects\c#\lists\bin\Debug\net8.0\lists.deps.json
+D:\GitProjects\c#\lists\bin\Debug\net8.0\lists.runtimeconfig.json
+D:\GitProjects\c#\lists\bin\Debug\net8.0\lists.dll
+D:\GitProjects\c#\lists\bin\Debug\net8.0\lists.pdb
+D:\GitProjects\c#\lists\obj\Debug\net8.0\lists.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProjects\c#\lists\obj\Debug\net8.0\lists.AssemblyInfoInputs.cache
+D:\GitProjects\c#\lists\obj\Debug\net8.0\lists.AssemblyInfo.cs
+D:\GitProjects\c#\lists\obj\Debug\net8.0\lists.csproj.CoreCompileInputs.cache
+D:\GitProjects\c#\lists\obj\Debug\net8.0\lists.sourcelink.json
+D:\GitProjects\c#\lists\obj\Debug\net8.0\lists.dll
+D:\GitProjects\c#\lists\obj\Debug\net8.0\refint\lists.dll
+D:\GitProjects\c#\lists\obj\Debug\net8.0\lists.pdb
+D:\GitProjects\c#\lists\obj\Debug\net8.0\lists.genruntimeconfig.cache
+D:\GitProjects\c#\lists\obj\Debug\net8.0\ref\lists.dll
