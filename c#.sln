@@ -32,6 +32,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lists", "lists\lists.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "balta", "balta\balta.csproj", "{1BDE107C-9C4D-4BE0-9193-DEC89DA9B7D3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "baltaDataAccess", "baltaDataAccess\baltaDataAccess.csproj", "{146D0225-C58D-4041-82C8-1A5BC5ED546E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -98,6 +100,10 @@ Global
 		{1BDE107C-9C4D-4BE0-9193-DEC89DA9B7D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BDE107C-9C4D-4BE0-9193-DEC89DA9B7D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BDE107C-9C4D-4BE0-9193-DEC89DA9B7D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{146D0225-C58D-4041-82C8-1A5BC5ED546E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{146D0225-C58D-4041-82C8-1A5BC5ED546E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{146D0225-C58D-4041-82C8-1A5BC5ED546E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{146D0225-C58D-4041-82C8-1A5BC5ED546E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

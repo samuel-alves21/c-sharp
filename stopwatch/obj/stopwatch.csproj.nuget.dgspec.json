@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitProjects\\c#\\stopwatch\\stopwatch.csproj": {}
+    "C:\\Users\\samue\\Documents\\Git-Projects\\c#\\stopwatch\\stopwatch.csproj": {}
   },
   "projects": {
-    "D:\\GitProjects\\c#\\stopwatch\\stopwatch.csproj": {
+    "C:\\Users\\samue\\Documents\\Git-Projects\\c#\\stopwatch\\stopwatch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitProjects\\c#\\stopwatch\\stopwatch.csproj",
+        "projectUniqueName": "C:\\Users\\samue\\Documents\\Git-Projects\\c#\\stopwatch\\stopwatch.csproj",
         "projectName": "stopwatch",
-        "projectPath": "D:\\GitProjects\\c#\\stopwatch\\stopwatch.csproj",
-        "packagesPath": "C:\\Users\\samuel\\.nuget\\packages\\",
-        "outputPath": "D:\\GitProjects\\c#\\stopwatch\\obj\\",
+        "projectPath": "C:\\Users\\samue\\Documents\\Git-Projects\\c#\\stopwatch\\stopwatch.csproj",
+        "packagesPath": "C:\\Users\\samue\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\samue\\Documents\\Git-Projects\\c#\\stopwatch\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\samuel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\samue\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

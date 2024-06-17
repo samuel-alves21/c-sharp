@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = editorHtml
-build_property.ProjectDir = D:\GitProjects\c#\editorHtml\
+build_property.ProjectDir = C:\Users\samue\Documents\Git-Projects\c#\editorHtml\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

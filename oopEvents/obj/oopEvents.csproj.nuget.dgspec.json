@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitProjects\\c#\\oopEvents\\oopEvents.csproj": {}
+    "C:\\Users\\samue\\Documents\\Git-Projects\\c#\\oopEvents\\oopEvents.csproj": {}
   },
   "projects": {
-    "D:\\GitProjects\\c#\\oopEvents\\oopEvents.csproj": {
+    "C:\\Users\\samue\\Documents\\Git-Projects\\c#\\oopEvents\\oopEvents.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitProjects\\c#\\oopEvents\\oopEvents.csproj",
+        "projectUniqueName": "C:\\Users\\samue\\Documents\\Git-Projects\\c#\\oopEvents\\oopEvents.csproj",
         "projectName": "oopEvents",
-        "projectPath": "D:\\GitProjects\\c#\\oopEvents\\oopEvents.csproj",
-        "packagesPath": "C:\\Users\\samuel\\.nuget\\packages\\",
-        "outputPath": "D:\\GitProjects\\c#\\oopEvents\\obj\\",
+        "projectPath": "C:\\Users\\samue\\Documents\\Git-Projects\\c#\\oopEvents\\oopEvents.csproj",
+        "packagesPath": "C:\\Users\\samue\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\samue\\Documents\\Git-Projects\\c#\\oopEvents\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\samuel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\samue\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

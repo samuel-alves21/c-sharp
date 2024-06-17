@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitProjects\\c#\\basic\\basic.csproj": {}
+    "C:\\Users\\samue\\Documents\\Git-Projects\\c#\\basic\\basic.csproj": {}
   },
   "projects": {
-    "D:\\GitProjects\\c#\\basic\\basic.csproj": {
+    "C:\\Users\\samue\\Documents\\Git-Projects\\c#\\basic\\basic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitProjects\\c#\\basic\\basic.csproj",
+        "projectUniqueName": "C:\\Users\\samue\\Documents\\Git-Projects\\c#\\basic\\basic.csproj",
         "projectName": "basic",
-        "projectPath": "D:\\GitProjects\\c#\\basic\\basic.csproj",
-        "packagesPath": "C:\\Users\\samuel\\.nuget\\packages\\",
-        "outputPath": "D:\\GitProjects\\c#\\basic\\obj\\",
+        "projectPath": "C:\\Users\\samue\\Documents\\Git-Projects\\c#\\basic\\basic.csproj",
+        "packagesPath": "C:\\Users\\samue\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\samue\\Documents\\Git-Projects\\c#\\basic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\samuel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\samue\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

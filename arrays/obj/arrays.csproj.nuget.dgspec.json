@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitProjects\\c#\\arrays\\arrays.csproj": {}
+    "C:\\Users\\samue\\Documents\\Git-Projects\\c#\\arrays\\arrays.csproj": {}
   },
   "projects": {
-    "D:\\GitProjects\\c#\\arrays\\arrays.csproj": {
+    "C:\\Users\\samue\\Documents\\Git-Projects\\c#\\arrays\\arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitProjects\\c#\\arrays\\arrays.csproj",
+        "projectUniqueName": "C:\\Users\\samue\\Documents\\Git-Projects\\c#\\arrays\\arrays.csproj",
         "projectName": "arrays",
-        "projectPath": "D:\\GitProjects\\c#\\arrays\\arrays.csproj",
-        "packagesPath": "C:\\Users\\samuel\\.nuget\\packages\\",
-        "outputPath": "D:\\GitProjects\\c#\\arrays\\obj\\",
+        "projectPath": "C:\\Users\\samue\\Documents\\Git-Projects\\c#\\arrays\\arrays.csproj",
+        "packagesPath": "C:\\Users\\samue\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\samue\\Documents\\Git-Projects\\c#\\arrays\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\samuel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\samue\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

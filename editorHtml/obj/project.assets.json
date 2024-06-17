@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\samuel\\.nuget\\packages\\": {}
+    "C:\\Users\\samue\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitProjects\\c#\\editorHtml\\editorHtml.csproj",
+      "projectUniqueName": "C:\\Users\\samue\\Documents\\Git-Projects\\c#\\editorHtml\\editorHtml.csproj",
       "projectName": "editorHtml",
-      "projectPath": "D:\\GitProjects\\c#\\editorHtml\\editorHtml.csproj",
-      "packagesPath": "C:\\Users\\samuel\\.nuget\\packages\\",
-      "outputPath": "D:\\GitProjects\\c#\\editorHtml\\obj\\",
+      "projectPath": "C:\\Users\\samue\\Documents\\Git-Projects\\c#\\editorHtml\\editorHtml.csproj",
+      "packagesPath": "C:\\Users\\samue\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\samue\\Documents\\Git-Projects\\c#\\editorHtml\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\samuel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\samue\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
