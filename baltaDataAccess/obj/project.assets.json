@@ -1736,11 +1736,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samue\\Documents\\Git-Projects\\c#\\baltaDataAccess\\baltaDataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\samue\\OneDrive\\Documentos\\github\\c-sharp\\baltaDataAccess\\baltaDataAccess.csproj",
       "projectName": "baltaDataAccess",
-      "projectPath": "C:\\Users\\samue\\Documents\\Git-Projects\\c#\\baltaDataAccess\\baltaDataAccess.csproj",
+      "projectPath": "C:\\Users\\samue\\OneDrive\\Documentos\\github\\c-sharp\\baltaDataAccess\\baltaDataAccess.csproj",
       "packagesPath": "C:\\Users\\samue\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\samue\\Documents\\Git-Projects\\c#\\baltaDataAccess\\obj\\",
+      "outputPath": "C:\\Users\\samue\\OneDrive\\Documentos\\github\\c-sharp\\baltaDataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\samue\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1797,7 +1797,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

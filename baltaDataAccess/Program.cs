@@ -6,7 +6,7 @@ const string stringConnection = "Server=localhost,1433;Database=balta;User ID=sa
 
 using (SqlConnection connection = new SqlConnection(stringConnection))
 {
-  UpdateCategory(connection);
+  // UpdateCategory(connection);
   ListCategories(connection);
   // CreateCategory(connection);
 }
@@ -70,21 +70,3 @@ static void CreateCategory(SqlConnection connection)
 
   Console.WriteLine($"{rows} row(s) inserted");
 }
-
-
-// Console.WriteLine("Connected...");
-
-// using (SqlCommand command = new SqlCommand())
-// {
-//   connection.Open();
-
-//   command.Connection = connection;
-//   command.CommandType = System.Data.CommandType.Text;
-//   command.CommandText = "SELECT [Id], [Title] FROM [Category]";
-
-//   var reader = command.ExecuteReader();
-//   while (reader.Read())
-//   {
-//     Console.WriteLine($"{reader.GetGuid(0)} - {reader.GetString(1)}");
-//   }
-// }
