@@ -40,7 +40,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyApp", "Myapp\MyApp.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todo", "Todo\Todo.csproj", "{FD4C3D60-D242-4161-82CF-A3F34207B3BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blog_v2", "Blog_v2\Blog_v2.csproj", "{A11FEBEA-C79A-4E78-ACCC-78D3E26E5245}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blog_v2", "Blog_v2\Blog_v2.csproj", "{4D98107F-9FF4-445F-8D54-AF5092DE3C59}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -132,6 +132,10 @@ Global
 		{A11FEBEA-C79A-4E78-ACCC-78D3E26E5245}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A11FEBEA-C79A-4E78-ACCC-78D3E26E5245}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A11FEBEA-C79A-4E78-ACCC-78D3E26E5245}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D98107F-9FF4-445F-8D54-AF5092DE3C59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D98107F-9FF4-445F-8D54-AF5092DE3C59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D98107F-9FF4-445F-8D54-AF5092DE3C59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D98107F-9FF4-445F-8D54-AF5092DE3C59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

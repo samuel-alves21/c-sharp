@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S3UlyrkvQsc=",
+  "dgSpecHash": "fMfE0x6o1y4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\samue\\OneDrive\\Documentos\\github\\c-sharp\\Blog_v2\\Blog_v2.csproj",
+  "projectFilePath": "C:\\Users\\samue\\Documents\\Git-Projects\\c-sharp\\Blog_v2\\Blog_v2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\samue\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\samue\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

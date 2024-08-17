@@ -1,4 +1,5 @@
 using Blog.Data;
+using Blog.Extesions;
 using Blog.Models;
 using Blog.ViewModels;
 using Microsoft.AspNetCore.Mvc;
@@ -11,18 +12,41 @@ namespace Blog.Controllers
   {
     [HttpGet("v1/categories")]
     public async Task<IActionResult> GetAsync([FromServices] BlogDataContext context)
-      => Ok(await context.Categories.ToListAsync());
+    {
+      try
+      {
+        List<Category> categories = await context.Categories.ToListAsync();
+        return Ok(new ResultViewModel<List<Category>>(categories));
+      }
+      catch
+      {
+        return StatusCode(500, new ResultViewModel<List<Category>>("05X04 - falha interna no servidor"));
+      }
+    }
 
     [HttpGet("v1/categories/{id:int}")]
     public async Task<IActionResult> GetOneAsync([FromServices] BlogDataContext context, [FromRoute] int id)
     {
-      if (context == null) return NotFound();
-      return Ok(await context.Categories.FirstOrDefaultAsync((x) => x.Id == id));
+      try
+      {
+        Category? category = await context.Categories.FirstOrDefaultAsync((x) => x.Id == id);
+        if (category == null) return NotFound(new ResultViewModel<Category>("05X03 - Conteúdo não encontrado"));
+        return Ok(new ResultViewModel<Category>(category));
+      }
+      catch
+      {
+        return StatusCode(500, new ResultViewModel<List<Category>>("05X04 - falha interna no servidor"));
+      }
     }
 
     [HttpPost("v1/categories/")]
     public async Task<IActionResult> PostAsync([FromServices] BlogDataContext context, [FromBody] EditorCategoryViewModel model)
     {
+      if (!ModelState.IsValid)
+      {
+        return BadRequest(ModelState.GetErrors());
+      }
+
       try
       {
         Category category = new()
