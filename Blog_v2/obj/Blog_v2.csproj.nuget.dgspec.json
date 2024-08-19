@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\samue\\Documents\\Git-Projects\\c-sharp\\Blog_v2\\Blog_v2.csproj": {}
+    "C:\\Users\\samue\\OneDrive\\Documentos\\github\\c-sharp\\Blog_v2\\Blog_v2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\samue\\Documents\\Git-Projects\\c-sharp\\Blog_v2\\Blog_v2.csproj": {
+    "C:\\Users\\samue\\OneDrive\\Documentos\\github\\c-sharp\\Blog_v2\\Blog_v2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samue\\Documents\\Git-Projects\\c-sharp\\Blog_v2\\Blog_v2.csproj",
+        "projectUniqueName": "C:\\Users\\samue\\OneDrive\\Documentos\\github\\c-sharp\\Blog_v2\\Blog_v2.csproj",
         "projectName": "Blog_v2",
-        "projectPath": "C:\\Users\\samue\\Documents\\Git-Projects\\c-sharp\\Blog_v2\\Blog_v2.csproj",
+        "projectPath": "C:\\Users\\samue\\OneDrive\\Documentos\\github\\c-sharp\\Blog_v2\\Blog_v2.csproj",
         "packagesPath": "C:\\Users\\samue\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samue\\Documents\\Git-Projects\\c-sharp\\Blog_v2\\obj\\",
+        "outputPath": "C:\\Users\\samue\\OneDrive\\Documentos\\github\\c-sharp\\Blog_v2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\samue\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -43,6 +43,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -73,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

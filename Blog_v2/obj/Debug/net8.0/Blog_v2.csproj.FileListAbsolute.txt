@@ -397,3 +397,4 @@ C:\Users\samue\Documents\Git-Projects\c-sharp\Blog_v2\obj\Debug\net8.0\scopedcss
 C:\Users\samue\Documents\Git-Projects\c-sharp\Blog_v2\obj\Debug\net8.0\Blog_v2.csproj.Up2Date
 C:\Users\samue\Documents\Git-Projects\c-sharp\Blog_v2\obj\Debug\net8.0\Blog_v2.genruntimeconfig.cache
 C:\Users\samue\Documents\Git-Projects\c-sharp\Blog_v2\obj\Debug\net8.0\ref\Blog_v2.dll
+C:\Users\samue\OneDrive\Documentos\github\c-sharp\Blog_v2\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
