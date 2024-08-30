@@ -14,7 +14,6 @@ namespace Blog.Extesions
           result.Add(error.ErrorMessage);
         }
       }
-
       return result;
     }
   }
